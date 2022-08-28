@@ -1,4 +1,4 @@
-# Project: Used Car Data Exploration
+# Project 3: Used Car Data Exploration
 
 ## by Betabasi Daniel
 
