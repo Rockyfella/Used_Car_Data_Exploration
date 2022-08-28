@@ -5,7 +5,7 @@
 
 ## Dataset
 
-> Used Car Data is a large dataset of different types of used cars across the market gathered by a consulting firm based on various market surveys and the dataset can be obtained from Kaggle [Link] (https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv). The dataset has 7906 entries of used cars with 18 features with data types of floats, integers and strings. Since the dataset needed to be wrangled and cleaned, I did it by splitting the torque column into two clolumns and then change the new columns to their appropriate datatypes before I started the exploration.
+> Used Car Data is a large dataset of different types of used cars across the market gathered by a consulting firm based on various market surveys and the dataset can be obtained from [Kaggle](https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv). The dataset has 7906 entries of used cars with 18 features with data types of floats, integers and strings. Since the dataset needed to be wrangled and cleaned, I did it by splitting the torque column into two clolumns and then change the new columns to their appropriate datatypes before I started the exploration.
 
 
 ## Summary of Findings
